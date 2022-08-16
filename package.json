@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^12.1.10",
     "caniuse-lite": "^1.0.30001376",
     "contentful": "^8.1.7",
+    "create-server": "^1.0.2",
+    "deploy-react": "^2.2.11",
     "dotenv": "^16.0.1",
     "postcss": "^8.4.16",
     "react": "^17.0.1",
@@ -15,6 +17,7 @@
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "serve-static": "^1.15.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
